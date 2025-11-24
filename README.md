@@ -2,6 +2,9 @@
 
 A production-ready order execution engine with DEX routing (Raydium & Meteora), real-time WebSocket updates, and queue-based concurrent processing. Built for Eterna's backend assessment.
 
+## 📹 Demo Video
+Watch the system in action: **[YouTube Demo](https://youtu.be/fxnDsu2K7uE)**
+
 ## 🎯 Design Decisions
 
 ### Market Orders (Chosen)
@@ -212,6 +215,7 @@ src/
 ## 🎬 Demo Video
 
 For demonstration of order flow and WebSocket streaming, see the public YouTube video linked in the submission.
+link : https://youtu.be/fxnDsu2K7uE
 
 ---
 
